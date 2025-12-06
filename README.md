@@ -23,5 +23,5 @@ I chose binary search because I have a good understanding of how the algorithm w
 3. Press the "Begin Binary Search" button to display the steps binary search takes to locate the target
 
 ## Author and Acknowledgement
-By Evelyn Siewert
+By Evelyn Siewert\
 I did not use generative AI on this assignment

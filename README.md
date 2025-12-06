@@ -22,6 +22,9 @@ I chose binary search because I have a good understanding of how the algorithm w
 2. Enter a target value into the textbox
 3. Press the "Begin Binary Search" button to display the steps binary search takes to locate the target
 
+## Hugging Face Link
+https://huggingface.co/spaces/evelynsiewert/cisc121project
+
 ## Author and Acknowledgement
 By Evelyn Siewert\
 I did not use generative AI on this assignment
